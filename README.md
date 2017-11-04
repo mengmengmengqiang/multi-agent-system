@@ -21,9 +21,10 @@
 
 - 有向图VS无向图
 
-  ![有向图](./Pictures/有向图.png)
-
-  ![无向图](./Pictures/无向图.png)
+<figure class="half">
+    <img src="./Pictures/有向图.png">
+    <img src="./Pictures/无向图.png">
+</figure>
 
 - 无向连通图
 - 无向不连通图
