@@ -45,7 +45,4 @@
 </figure>
 
 - 含有一个有向生成树的有向图
-
-<figure>
-    <img = src="./Pictures/含有一个有向生成树的有向图.png" title="含有一个有向生成树的有向图"></a>
-</figure>
+![含有一个有向生成树的有向图](./Pictures/含有一个有向生成树的有向图.png)
