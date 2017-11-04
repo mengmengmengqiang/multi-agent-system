@@ -20,6 +20,7 @@
 ### 图的定义
 
 - 有向图
+
 <center>
     <img = src="./Pictures/有向图.png" title="有向图"/>
 </center>
