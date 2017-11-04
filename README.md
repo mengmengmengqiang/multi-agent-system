@@ -52,5 +52,5 @@
 - 无向不连通图  
 
 <center>
-    <img = src="./Pictures/无向不连通图.png" title="无向不连通图" width="100" high="100" />
+    <img = src="./Pictures/无向不连通图.png" title="无向不连通图" width="150" high="150" />
 </center>
