@@ -19,37 +19,39 @@
 
 ### 图的定义
 
-- 有向图
+- 有向图  
 
 <center>
-    <img = src="./Pictures/有向图.png" title="有向图"/>
+    <img = src="./Pictures/有向图.png" title="有向图" width="100" high="100" />
+    <img = src="./Pictures/有向图.png" title="有向图" width="100" high="100" />
 </center>
 
-  + 有向强连通图
+- 有向强连通图  
 
-  <center>
-      <img = src="./Pictures/有向强连通图.png" title="有向强连通图"/>
-  </center>
+<center>
+    <img = src="./Pictures/有向强连通图.png" title="有向强连通图" width="255" high="287" />
+</center>
 
-  + 含有一个有向生成树的有向图
+- 含有一个有向生成树的有向图  
 
-  <center>
-      <img = src="./Pictures/含有一个有向生成树的有向图.png" title="含有一个有向生成树的有向图"/>
-  </center>
+<center>
+    <img = src="./Pictures/含有一个有向生成树的有向图.png" title="含有一个有向生成树的有向图" width="260" high="287" />
+</center>
 
 - 无向图
+
 <center>
-    <img = src="./Pictures/无向图.png" title="无向图"/>
+    <img = src="./Pictures/无向图.png" title="无向图" width="260" high="287" />
 </center>
 
-  + 无向连通图
+- 无向连通图  
 
-  <center>
-      <img = src="./Pictures/无向连通图.png" title="无向连通图" />
-  </center>
+<center>
+    <img = src="./Pictures/无向连通图.png" title="无向连通图" width="260" high="287" />
+</center>
 
-  + 无向不连通图
+- 无向不连通图  
 
-  <center>
-      <img = src="./Pictures/无向不连通图.png" title="无向不连通图"/>
-  </center>
+<center>
+    <img = src="./Pictures/无向不连通图.png" title="无向不连通图" width="260" high="287" />
+</center>
