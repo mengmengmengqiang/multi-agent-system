@@ -22,8 +22,8 @@
 - 有向图VS无向图
 
 <figure class="half">
-    <img src="./Pictures/有向图.png" title="有向图">
-    <img src="./Pictures/无向图.png" title="无向图">
+    <img src="./Pictures/有向图.png" title="有向图"/>
+    <img src="./Pictures/无向图.png" title="无向图"/>
 </figure>
 
 - 无向连通图
