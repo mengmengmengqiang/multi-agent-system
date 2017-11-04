@@ -22,8 +22,8 @@
 - 有向图VS无向图
 
 <center class="half">
-    <img src="./Pictures/有向图.png" title="有向图"/>
-    <img src="./Pictures/无向图.png" title="无向图"/>
+    <img src="https://github.com/mengmengmengqiang/multi-agent-system/raw/master/Pictures/%E6%9C%89%E5%90%91%E5%9B%BE.png" title="有向图"/>
+    <img src="https://github.com/mengmengmengqiang/multi-agent-system/raw/master/Pictures/%E6%97%A0%E5%90%91%E5%9B%BE.png" title="无向图"/>
 </center>
 
 - 无向连通图VS无向不连通图
