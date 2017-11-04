@@ -19,28 +19,36 @@
 
 ### 图的定义
 
-* 有向图VS无向图
-
-<center class="half">
-    <img src="./Pictures/有向图.png" title="有向图"/>
-    <img src="./Pictures/无向图.png" title="无向图"/>
-</center>
-
- 无向连通图VS无向不连通图
-
+- 有向图
 <center>
-    <img = src="./Pictures/无向连通图.png" title="无向连通图" />
-    <img = src="./Pictures/无向不连通图.png" title="无向不连通图"/>
+    <img = src="./Pictures/有向图.png" title="有向图"/>
 </center>
 
-* 有向强连通图
+  + 有向强连通图
 
+  <center>
+      <img = src="./Pictures/有向强连通图.png" title="有向强连通图"/>
+  </center>
+
+  + 含有一个有向生成树的有向图
+
+  <center>
+      <img = src="./Pictures/含有一个有向生成树的有向图.png" title="含有一个有向生成树的有向图"/>
+  </center>
+
+- 无向图
 <center>
-    <img = src="./Pictures/有向强连通图.png" title="有向强连通图"/>
+    <img = src="./Pictures/无向图.png" title="无向图"/>
 </center>
 
-* 含有一个有向生成树的有向图
+  + 无向连通图
 
-<center>
-    <img = src="./Pictures/含有一个有向生成树的有向图.png" title="含有一个有向生成树的有向图"/>
-</center>
+  <center>
+      <img = src="./Pictures/无向连通图.png" title="无向连通图" />
+  </center>
+
+  + 无向不连通图
+
+  <center>
+      <img = src="./Pictures/无向不连通图.png" title="无向不连通图"/>
+  </center>
