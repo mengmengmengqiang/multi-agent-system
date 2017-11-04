@@ -41,7 +41,7 @@
 - 有向强连通图
 
 <figure>
-    <img = src="{{ site.url }}/Pictures/有向强连通图.png" title="有向强连通图"/></a>
+    <img = src="./Pictures/有向强连通图.png" title="有向强连通图"/></a>
 </figure>
 
 - 含有一个有向生成树的有向图
