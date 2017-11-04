@@ -21,29 +21,26 @@
 
 - 有向图VS无向图
 
-<figure class="half">
+<center class="half">
     <img src="./Pictures/有向图.png" title="有向图"/>
     <img src="./Pictures/无向图.png" title="无向图"/>
-</figure>
+</center>
 
-- 无向连通图
+- 无向连通图VS无向不连通图
 
-<figure>
-    <img = src="./Pictures/无向连通图.png" title="无向连通图"></a>
-</figure>
-
-- 无向不连通图
-
-<figure>
-    <img = src="./Pictures/无向不连通图.png" title="无向不连通图"></a>
-</figure>
+<center>
+    <img = src="./Pictures/无向连通图.png" title="无向连通图" />
+    <img = src="./Pictures/无向不连通图.png" title="无向不连通图"/>
+</center>
 
 - 有向强连通图
 
-<figure>
-    <img = src="./Pictures/有向强连通图.png" title="有向强连通图"/></a>
-</figure>
+<center>
+    <img = src="./Pictures/有向强连通图.png" title="有向强连通图"/>
+</center>
 
 - 含有一个有向生成树的有向图
 
-![含有一个有向生成树的有向图](./Pictures/含有一个有向生成树的有向图.png)
+<center>
+    <img = src="./Pictures/含有一个有向生成树的有向图.png" title="含有一个有向生成树的有向图"/>
+</center>
