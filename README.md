@@ -1,7 +1,5 @@
 # multi-agent-system
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 ## 参考书目
 
 1. 复杂动态网络的同步，陆君安,刘慧,陈娟 编编著，高等教育出版社
@@ -69,5 +67,5 @@
 
 - 边集  
 
-  $$E = \\{e_{12}, e_{23}, e_{24}, e_{34}, e_{42}\\}    
-  e_{ji} = (v_{j}, v_{i})为边$$
+  \\E = \\{e_{12}, e_{23}, e_{24}, e_{34}, e_{42}\\}\\
+  \\e_{ji} = (v_{j}, v_{i})为边\\
