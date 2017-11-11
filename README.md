@@ -72,4 +72,4 @@
 
 - 邻接矩阵
 
-  <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large A=[a{ij}{nxn}:a{ij}>0]" style="border:none;">
+  A = [a{ij}]{nxn}:a > 0 <=> e{ij} = (v{j}, v{i})
