@@ -57,8 +57,6 @@
 
 ### 图的矩阵表示
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 - 图
 
   $$G = (V, E, A)$$
@@ -71,3 +69,7 @@
 
   $$E = \\{e_{12}, e_{23}, e_{24}, e_{34}, e_{42}\\}$$
   $$e_{ji} = (v_{j}, v_{i})为边$$
+
+- 邻接矩阵
+
+  <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large A=[a{ij}{nxn}:a{ij}>0]" style="border:none;">
