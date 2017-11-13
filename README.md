@@ -22,58 +22,67 @@
 - 有向图  
 
 <center>
-    <img = src="./Pictures/有向图.png" title="有向图" width="100" high="100" />
+    <img src="./Pictures/有向图.png" title="有向图" width="100" high="100" />
 </center>
 
 - 有向强连通图  
 
 <center>
-    <img = src="./Pictures/有向强连通图.png" title="有向强连通图" width="100" high="100" />
+    <img src="./Pictures/有向强连通图.png" title="有向强连通图" width="100" high="100" />
 </center>
 
 - 含有一个有向生成树的有向图  
 
 <center>
-    <img = src="./Pictures/含有一个有向生成树的有向图.png" title="含有一个有向生成树的有向图" width="100" high="100" />
+    <img src="./Pictures/含有一个有向生成树的有向图.png" title="含有一个有向生成树的有向图" width="100" high="100" />
 </center>
 
 - 无向图
 
 <center>
-    <img = src="./Pictures/无向图.png" title="无向图" width="100" high="100" />
+    <img src="./Pictures/无向图.png" title="无向图" width="100" high="100" />
 </center>
 
 - 无向连通图  
 
 <center>
-    <img = src="./Pictures/无向连通图.png" title="无向连通图" width="100" high="100" />
+    <img src="./Pictures/无向连通图.png" title="无向连通图" width="100" high="100" />
 </center>
 
 - 无向不连通图  
 
 <center>
-    <img = src="./Pictures/无向不连通图.png" title="无向不连通图" width="200" high="200" />
+    <img src="./Pictures/无向不连通图.png" title="无向不连通图" width="200" high="200" />
 </center>
 
 ### 图的矩阵表示
 
 - 图
 
-  $$G = (V, E, A)$$
+<center>
+    <img src="./Pictures/图.svg" title="图的公式" width="200" high="200" />
+</center>
 
 - 顶点集  
 
-  $$V = \\{v_{1}, v_{2}, v_{3}, v_{4}\\}$$
+<center>
+    <img src="./Pictures/顶点集.svg" title="顶点集" width="200" high="200" />
+</center>
 
 - 边集  
 
-  $$E = \\{e_{12}, e_{23}, e_{24}, e_{34}, e_{42}\\}$$
-  $$e_{ji} = (v_{j}, v_{i})为边$$
+<center>
+    <img src="./Pictures/边集.svg" title="顶点集" width="200" high="200" />
+</center>
 
 - 邻接矩阵
 
-  $$A = [a_{ij}]{nxn}:a > 0 <=> e_{ij} = (v_{j}, v_{i})$$
+<center>
+    <img src="./Pictures/邻接矩阵.svg" title="图的公式" width="200" high="200" />
+</center>
 
 - 拉普拉斯矩阵
 
-  <a href="https://www.codecogs.com/eqnedit.php?latex=A&space;=&space;\begin{bmatrix}&space;0&&space;1&&space;0&&space;0\\&space;1&&space;0&&space;1&&space;1\\&space;0&&space;1&&space;0&&space;1\\&space;0&&space;1&&space;1&&space;0&space;\end{bmatrix}&space;L&space;=&space;\begin{bmatrix}&space;1&&space;-1&&space;0&&space;0\\&space;-1&&space;3&&space;-1&&space;-1\\&space;0&&space;-1&&space;2&&space;-1\\&space;0&&space;-1&&space;-1&&space;2&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?A&space;=&space;\begin{bmatrix}&space;0&&space;1&&space;0&&space;0\\&space;1&&space;0&&space;1&&space;1\\&space;0&&space;1&&space;0&&space;1\\&space;0&&space;1&&space;1&&space;0&space;\end{bmatrix}&space;L&space;=&space;\begin{bmatrix}&space;1&&space;-1&&space;0&&space;0\\&space;-1&&space;3&&space;-1&&space;-1\\&space;0&&space;-1&&space;2&&space;-1\\&space;0&&space;-1&&space;-1&&space;2&space;\end{bmatrix}" title="A = \begin{bmatrix} 0& 1& 0& 0\\ 1& 0& 1& 1\\ 0& 1& 0& 1\\ 0& 1& 1& 0 \end{bmatrix} L = \begin{bmatrix} 1& -1& 0& 0\\ -1& 3& -1& -1\\ 0& -1& 2& -1\\ 0& -1& -1& 2 \end{bmatrix}" /></a>
+<center>
+    <img src="./Pictures/Lapulasi.svg" title="拉普拉斯矩阵" width="200" high="200" />
+</center>
