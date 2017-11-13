@@ -84,6 +84,13 @@
 - 拉普拉斯矩阵
 
 <center>
-    <img src="./Pictures/Laplace公式.svg" title="拉普拉斯矩阵" width="300" high="300" />
+    <img src="./Pictures/Laplace公式.svg" title="Laplace公式" width="300" high="300" />
+</center>
+
+<center>
+    <img src="./Pictures/拉普拉斯矩阵图片例子.png" title="拉普拉斯矩阵" width="100" high="100" />
+</center>
+
+<center>
     <img src="./Pictures/拉普拉斯矩阵.svg" title="拉普拉斯矩阵" width="300" high="300" />
 </center>
