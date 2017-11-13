@@ -60,29 +60,29 @@
 - 图
 
 <center>
-    <img src="./Pictures/图.svg" title="图的公式" width="200" high="200" />
+    <img src="./Pictures/图.svg" title="图的公式" width="150" high="150" />
 </center>
 
 - 顶点集  
 
 <center>
-    <img src="./Pictures/顶点集.svg" title="顶点集" width="200" high="200" />
+    <img src="./Pictures/顶点集.svg" title="顶点集" width="170" high="170" />
 </center>
 
 - 边集  
 
 <center>
-    <img src="./Pictures/边集.svg" title="顶点集" width="200" high="200" />
+    <img src="./Pictures/边集.svg" title="顶点集" width="210" high="210" />
 </center>
 
 - 邻接矩阵
 
 <center>
-    <img src="./Pictures/邻接矩阵.svg" title="图的公式" width="200" high="200" />
+    <img src="./Pictures/邻接矩阵.svg" title="图的公式" width="240" high="240" />
 </center>
 
 - 拉普拉斯矩阵
 
 <center>
-    <img src="./Pictures/Lapulasi.svg" title="拉普拉斯矩阵" width="200" high="200" />
+    <img src="./Pictures/Lapulasi.svg" title="拉普拉斯矩阵" width="300" high="300" />
 </center>
