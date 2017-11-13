@@ -73,3 +73,7 @@
 - 邻接矩阵
 
   $$A = [a_{ij}]{nxn}:a > 0 <=> e_{ij} = (v_{j}, v_{i})$$
+
+- 拉普拉斯矩阵
+
+  <a href="https://www.codecogs.com/eqnedit.php?latex=A&space;=&space;\begin{bmatrix}&space;0&&space;1&&space;0&&space;0\\&space;1&&space;0&&space;1&&space;1\\&space;0&&space;1&&space;0&&space;1\\&space;0&&space;1&&space;1&&space;0&space;\end{bmatrix}&space;L&space;=&space;\begin{bmatrix}&space;1&&space;-1&&space;0&&space;0\\&space;-1&&space;3&&space;-1&&space;-1\\&space;0&&space;-1&&space;2&&space;-1\\&space;0&&space;-1&&space;-1&&space;2&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?A&space;=&space;\begin{bmatrix}&space;0&&space;1&&space;0&&space;0\\&space;1&&space;0&&space;1&&space;1\\&space;0&&space;1&&space;0&&space;1\\&space;0&&space;1&&space;1&&space;0&space;\end{bmatrix}&space;L&space;=&space;\begin{bmatrix}&space;1&&space;-1&&space;0&&space;0\\&space;-1&&space;3&&space;-1&&space;-1\\&space;0&&space;-1&&space;2&&space;-1\\&space;0&&space;-1&&space;-1&&space;2&space;\end{bmatrix}" title="A = \begin{bmatrix} 0& 1& 0& 0\\ 1& 0& 1& 1\\ 0& 1& 0& 1\\ 0& 1& 1& 0 \end{bmatrix} L = \begin{bmatrix} 1& -1& 0& 0\\ -1& 3& -1& -1\\ 0& -1& 2& -1\\ 0& -1& -1& 2 \end{bmatrix}" /></a>
